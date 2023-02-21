@@ -3,7 +3,7 @@ public class Main {
         Formulario formularioIngresosEgresos = new Formulario();
         try {
             formularioIngresosEgresos.agregarRegistro(new Ingreso(
-                    "2023-12-12", "Desc1", 40.00
+                    "2023-12-1", "Desc1", 40.00
             ));
             formularioIngresosEgresos.agregarRegistro(new Ingreso(
                     "2023-12-12", "Desc2", 20.00
